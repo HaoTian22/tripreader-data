@@ -12,6 +12,23 @@ Please note that the author and other contributors should not be responsible or 
 您可以免费使用这些数据，前提是您同意遵守下面的条款。
 请注意，作者和所有数据贡献者不对数据的准确性承担任何责任，亦不对您因使用这些数据所造成的损失承担任何责任。
 
+# Format
+
+```
+City,Code,Type,Line,Station,Station-en
+```
+* Station-en is optional
+* Type is one of 地铁 (Metro), 公交 (Bus), 轮渡 (Ferry), 有轨电车 (Tram), 轻轨 (Light Rail), 城际 (Intercity Rail)，written in Chinese.
+* Codes are matched in order from longest to shortest
+* Line/Station/Station-en can be empty if not available
+```
+
+* Station-en（英文站名）为可选项
+* Type（类型）为以下值之一，使用中文表示：地铁、公交、轮渡、有轨电车、轻轨、城际、便利店、自行车
+* 匹配时按代码从长到短的顺序进行
+* Line（线路）、Station（站点）、Station-en（英文站名）若无可用数据可为空
+
+
 ## 条款 Terms
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
