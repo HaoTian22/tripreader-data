@@ -7,7 +7,7 @@ You can use the data freely, subject to the terms below.
 Please note that the author and other contributors should not be responsible or liable for the accuracy of the data, or for any loss or damage incurred by you in connection with your use of the data.
 
 本数据库来自“读卡识途”项目，作者公开这些数据以鼓励NFC相关的开发活动。
-数据分别由原作者和其他贡献者采集。
+数据分别由原作者(domosekai)和其他贡献者采集。
 
 您可以免费使用这些数据，前提是您同意遵守下面的条款。
 请注意，作者和所有数据贡献者不对数据的准确性承担任何责任，亦不对您因使用这些数据所造成的损失承担任何责任。
@@ -25,7 +25,7 @@ City,Code,Type,Line,Station,Station-en
 
 * Station-en（英文站名）为可选项
 * Type（类型）为以下值之一，使用中文表示：地铁、公交、轮渡、有轨电车、轻轨、城际、便利店、自行车
-* 匹配时按代码从长到短的顺序进行
+* 匹配时应按代码从长到短的顺序进行（从精确到模糊）
 * Line（线路）、Station（站点）、Station-en（英文站名）若无可用数据可为空
 
 
