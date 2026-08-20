@@ -12,16 +12,16 @@ Please note that the author and other contributors should not be responsible or 
 您可以免费使用这些数据，前提是您同意遵守下面的条款。
 请注意，作者和所有数据贡献者不对数据的准确性承担任何责任，亦不对您因使用这些数据所造成的损失承担任何责任。
 
-# Format
+## Format
 
-```
+```csv
 City,Code,Type,Line,Station,Station-en
 ```
+
 * Station-en is optional
-* Type is one of 地铁 (Metro), 公交 (Bus), 轮渡 (Ferry), 有轨电车 (Tram), 轻轨 (Light Rail), 城际 (Intercity Rail)，written in Chinese.
+* Type is one of 地铁 (Metro), 公交 (Bus), 轮渡 (Ferry), 有轨电车 (Tram), 轻轨 (Light Rail), 城际 (Intercity Rail), 便利店 (Convenience Store), 自行车 (Bicycle)，written in Chinese.
 * Codes are matched in order from longest to shortest
 * Line/Station/Station-en can be empty if not available
-```
 
 * Station-en（英文站名）为可选项
 * Type（类型）为以下值之一，使用中文表示：地铁、公交、轮渡、有轨电车、轻轨、城际、便利店、自行车
