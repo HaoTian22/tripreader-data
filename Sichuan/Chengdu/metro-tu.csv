@@ -1,461 +1,461 @@
 City,Code,Type,Line,Station,Station-en
-6510,01,地铁,1号线,,
-6510,0120,地铁,1号线,韦家碾,Weijianian
-6510,0121,地铁,1号线,升仙湖,Shengxian Lake
-6510,0122,地铁,1号线,火车北站,North Railway Station
-6510,0123,地铁,1号线,人民北路,Renmin North Road
-6510,0124,地铁,1号线,文殊院,Wenshu Monastery
-6510,0125,地铁,1号线,骡马市,Luomashi
-6510,0126,地铁,1号线,天府广场,Tianfu Square
-6510,0127,地铁,1号线,锦江宾馆,Jinjiang Hotel
-6510,0128,地铁,1号线,华西坝,Huaxiba
-6510,0129,地铁,1号线,省体育馆,Sichuan Gymnasium
-6510,0130,地铁,1号线,倪家桥,Nijiaqiao
-6510,0131,地铁,1号线,桐梓林,Tongzilin
-6510,0132,地铁,1号线,火车南站,South Railway Station
-6510,0133,地铁,1号线,高新,Hi-Tech Zone
-6510,0134,地铁,1号线,金融城,Financial City
-6510,0135,地铁,1号线,孵化园,Incubation Park
-6510,0136,地铁,1号线,锦城广场,Jincheng Plaza
-6510,0137,地铁,1号线,世纪城,Century City
-6510,0138,地铁,1号线,天府三街,3rd Tianfu Street
-6510,0139,地铁,1号线,天府五街,5th Tianfu Street
-6510,0140,地铁,1号线,华府大道,Huafu Avenue
-6510,0141,地铁,1号线,四河,Sihe
-6510,0142,地铁,1号线,广都,Guangdu
-6510,0143,地铁,1号线,五根松,Wugensong
-6510,0144,地铁,1号线,华阳,Huayang
-6510,0145,地铁,1号线,海昌路,Haichang Road
-6510,0146,地铁,1号线,广福,Guangfu
-6510,0147,地铁,1号线,红石公园,Hongshi Park
-6510,0148,地铁,1号线,麓湖,Luhu Lake
-6510,0149,地铁,1号线,武汉路,Wuhan Road
-6510,0150,地铁,1号线,天府公园,Tianfu Park
-6510,0151,地铁,1号线,西博城,Western China Int'l Expo City
-6510,0152,地铁,1号线,广州路,Guangzhou Road
-6510,0153,地铁,1号线,兴隆湖,Xinglong Lake
-6510,0154,地铁,1号线,科学城,Science City
-6510,02,地铁,2号线,,
-6510,0221,地铁,2号线,犀浦,Xipu Railway Station
-6510,0222,地铁,2号线,天河路,Tianhe Road
-6510,0223,地铁,2号线,百草路,Baicao Road
-6510,0224,地铁,2号线,金周路,Jinzhou Road
-6510,0225,地铁,2号线,金科北路,Jinke North Road
-6510,0226,地铁,2号线,迎宾大道,Yingbin Avenue
-6510,0227,地铁,2号线,茶店子客运站,Chadianzi Bus Terminal Station
-6510,0228,地铁,2号线,羊犀立交,Yangxi Flyover
-6510,0229,地铁,2号线,一品天下,Yipintianxia
-6510,0230,地铁,2号线,蜀汉路东,Shuhan Road East
-6510,0231,地铁,2号线,白果林,Baiguolin
-6510,0232,地铁,2号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
-6510,0233,地铁,2号线,通惠门,Tonghuimen
-6510,0234,地铁,2号线,人民公园,People's Park
-6510,0235,地铁,2号线,天府广场,Tianfu Square
-6510,0236,地铁,2号线,春熙路,Chunxi Road
-6510,0237,地铁,2号线,东门大桥,Dongmen Bridge
-6510,0238,地铁,2号线,牛王庙,Niuwangmiao
-6510,0239,地铁,2号线,牛市口,Niushikou
-6510,0240,地铁,2号线,东大路,Dongdalu Road
-6510,0241,地铁,2号线,塔子山公园,Tazishan Park
-6510,0242,地铁,2号线,成都东客站,Chengdu East Railway Station
-6510,0243,地铁,2号线,成渝立交,Chengyu Flyover
-6510,0244,地铁,2号线,惠王陵,Huiwangling
-6510,0245,地铁,2号线,洪河,Honghe
-6510,0246,地铁,2号线,成都行政学院,Chengdu Academy of Governance
-6510,0247,地铁,2号线,大面铺,Damianpu
-6510,0248,地铁,2号线,连山坡,Lianshanpo
-6510,0249,地铁,2号线,界牌,Jiepai
-6510,0250,地铁,2号线,书房,Shufang
-6510,0251,地铁,2号线,龙平路,Longping Road
-6510,0252,地铁,2号线,龙泉驿,Longquanyi
-6510,03,地铁,3号线,,
-6510,0312,地铁,3号线,成都医学院,Chengdu Medical College
-6510,0313,地铁,3号线,石油大学,Southwest Petroleum University
-6510,0314,地铁,3号线,钟楼,Clock Tower
-6510,0315,地铁,3号线,马超西路,Machao West Road
-6510,0316,地铁,3号线,团结新区,Tuanjiexinqu
-6510,0317,地铁,3号线,锦水河,Jinshuihe
-6510,0318,地铁,3号线,三河场,Sanhechang
-6510,0319,地铁,3号线,金华寺东路,Jinhuasi East Road
-6510,0320,地铁,3号线,植物园,Botanical Garden
-6510,0321,地铁,3号线,军区总医院,Chengdu Junqu General Hospital
-6510,0322,地铁,3号线,熊猫大道,Panda Avenue
-6510,0323,地铁,3号线,动物园,Chengdu Zoo
-6510,0324,地铁,3号线,昭觉寺南路,Zhaojuesi South Road
-6510,0325,地铁,3号线,驷马桥,Sima Bridge
-6510,0326,地铁,3号线,李家沱,Lijiatuo
-6510,0327,地铁,3号线,前锋路,Qianfeng Road
-6510,0328,地铁,3号线,红星桥,Hongxing Bridge
-6510,0329,地铁,3号线,市二医院,Chengdu Second People's Hospital
-6510,0330,地铁,3号线,春熙路,Chunxi Road
-6510,0331,地铁,3号线,新南门,Xinnanmen
-6510,0332,地铁,3号线,磨子桥,Moziqiao
-6510,0333,地铁,3号线,省体育馆,Sichuan Gymnasium
-6510,0334,地铁,3号线,衣冠庙,Yiguanmiao
-6510,0335,地铁,3号线,高升桥,Gaoshengqiao
-6510,0336,地铁,3号线,红牌楼,Hongpailou
-6510,0337,地铁,3号线,太平园,Taipingyuan
-6510,0338,地铁,3号线,川藏立交,Chuanzang Flyover
-6510,0339,地铁,3号线,武侯立交,Wuhou Flyover
-6510,0340,地铁,3号线,武青南路,Wuqing South Road
-6510,0341,地铁,3号线,双凤桥,Shuangfengqiao
-6510,0342,地铁,3号线,龙桥路,Longqiao Road
-6510,0343,地铁,3号线,航都大街,Hangdu Street
-6510,0344,地铁,3号线,迎春桥,Yingchunqiao
-6510,0345,地铁,3号线,东升,Dongsheng
-6510,0346,地铁,3号线,双流广场,Shuangliu Square
-6510,0347,地铁,3号线,三里坝,Sanliba
-6510,0348,地铁,3号线,双流西站,Shuangliu West Railway Station
-6510,04,地铁,4号线,,
-6510,0413,地铁,4号线,万盛,Wansheng
-6510,0414,地铁,4号线,杨柳河,Yangliuhe
-6510,0415,地铁,4号线,凤溪河,Fengxihe
-6510,0416,地铁,4号线,南熏大道,Nanxun Avenue
-6510,0417,地铁,4号线,光华公园,Guanghua Park
-6510,0418,地铁,4号线,涌泉,Yongquan
-6510,0419,地铁,4号线,凤凰大街,Fenghuang Street
-6510,0420,地铁,4号线,马厂坝,Machangba
-6510,0421,地铁,4号线,非遗博览园,Intangible Cultural Heritage Park
-6510,0422,地铁,4号线,蔡桥,Caiqiao
-6510,0423,地铁,4号线,中坝,Zhongba
-6510,0424,地铁,4号线,成都西站,Chengdu West Railway Station
-6510,0425,地铁,4号线,清江西路,Qingjiang West Road
-6510,0426,地铁,4号线,文化宫,Culture Palace
-6510,0427,地铁,4号线,西南财大,Southwestern University of Finance and Economics
-6510,0428,地铁,4号线,草堂北路,Caotang North Road
-6510,0429,地铁,4号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
-6510,0430,地铁,4号线,宽窄巷子,Kuanzhaixiangzi Alleys
-6510,0431,地铁,4号线,骡马市,Luomashi
-6510,0432,地铁,4号线,太升南路,Taisheng South Road
-6510,0433,地铁,4号线,市二医院,Chengdu Second People's Hospital
-6510,0434,地铁,4号线,玉双路,Yushuang Road
-6510,0435,地铁,4号线,双桥路,Shuangqiao Road
-6510,0436,地铁,4号线,万年场,Wannianchang
-6510,0437,地铁,4号线,槐树店,Huaishudian
-6510,0438,地铁,4号线,来龙,Lailong
-6510,0439,地铁,4号线,十陵,Shiling
-6510,0440,地铁,4号线,成都大学,Chengdu University
-6510,0441,地铁,4号线,明蜀王陵,Mingshuwangling
-6510,0442,地铁,4号线,西河,Xihe
-6510,05,地铁,5号线,,
-6510,0521,地铁,5号线,华桂路,Huagui Road
-6510,0522,地铁,5号线,柏水场,Baishuichang
-6510,0523,地铁,5号线,廖家湾,Liaojiawan
-6510,0524,地铁,5号线,北部商贸城,Beibu Shopping Mall
-6510,0525,地铁,5号线,幸福桥,Xingfuqiao
-6510,0526,地铁,5号线,九道堰,Jiudaoyan
-6510,0527,地铁,5号线,杜家碾,Dujianian
-6510,0528,地铁,5号线,大丰,Dafeng
-6510,0529,地铁,5号线,石犀公园,Shixi Park
-6510,0530,地铁,5号线,皇花园,Huanghuayuan
-6510,0531,地铁,5号线,陆家桥,Lujiaqiao
-6510,0532,地铁,5号线,泉水路,Quanshui Road
-6510,0533,地铁,5号线,洞子口,Dongzikou
-6510,0534,地铁,5号线,福宁路,Funing Road
-6510,0535,地铁,5号线,五块石,Wukuaishi
-6510,0536,地铁,5号线,赛云台,Saiyuntai
-6510,0537,地铁,5号线,北站西二路,2nd Beizhan West Road
-6510,0538,地铁,5号线,西北桥,Xibei Bridge
-6510,0539,地铁,5号线,花牌坊,Huapaifang
-6510,0540,地铁,5号线,抚琴,Fuqin
-6510,0541,地铁,5号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
-6510,0542,地铁,5号线,青羊宫,Qingyang Taoist Temple
-6510,0543,地铁,5号线,省骨科医院,Provincial Orthopaedics Hospital
-6510,0544,地铁,5号线,高升桥,Gaoshengqiao
-6510,0545,地铁,5号线,科园,Keyuan
-6510,0546,地铁,5号线,九兴大道,Jiuxing Avenue
-6510,0547,地铁,5号线,神仙树,Shenxianshu
-6510,0548,地铁,5号线,石羊立交,Shiyang Flyover
-6510,0549,地铁,5号线,市一医院,Chengdu First People's Hospital
-6510,0550,地铁,5号线,交子大道,Jiaozi Avenue
-6510,0551,地铁,5号线,锦城大道,Jincheng Avenue
-6510,0552,地铁,5号线,锦城湖,Jincheng Lake
-6510,0553,地铁,5号线,大源,Dayuan
-6510,0554,地铁,5号线,民乐,Minle
-6510,0555,地铁,5号线,骑龙,Qilong
-6510,0556,地铁,5号线,警官学院,The Police College
-6510,0557,地铁,5号线,二江寺,Erjiang Temple
-6510,0558,地铁,5号线,南湖立交,Nanhu Flyover
-6510,0559,地铁,5号线,怡心湖,Yixin Lake
-6510,0560,地铁,5号线,龙马路,Longma Road
-6510,0561,地铁,5号线,回龙,Huilong
-6510,06,地铁,6号线,,
-6510,0621,地铁,6号线,望丛祠,Wangcong Temple
-6510,0622,地铁,6号线,和平街,Heping Street
-6510,0623,地铁,6号线,郫筒,Pitong
-6510,0624,地铁,6号线,蜀新大道,Shuxin Avenue
-6510,0625,地铁,6号线,檬梓,Mengzi
-6510,0626,地铁,6号线,尚锦路,Shangjin Road
-6510,0627,地铁,6号线,红高路,Honggao Road
-6510,0628,地铁,6号线,天宇路,Tianyu Road
-6510,0629,地铁,6号线,犀浦,Xipu Railway Station
-6510,0630,地铁,6号线,兴业北街,Xingye North Street
-6510,0631,地铁,6号线,梓潼宫,Zitonggong
-6510,0632,地铁,6号线,侯家桥,Houjiaqiao
-6510,0633,地铁,6号线,兴盛,Xingsheng
-6510,0634,地铁,6号线,青杠,Qinggang
-6510,0635,地铁,6号线,西华大道,Xihua Avenue
-6510,0636,地铁,6号线,金府,Jinfu
-6510,0637,地铁,6号线,星河,Xinghe
-6510,0638,地铁,6号线,西南交大,Southwest Jiaotong University
-6510,0639,地铁,6号线,沙湾,Shawan
-6510,0640,地铁,6号线,西北桥,Xibei Bridge
-6510,0641,地铁,6号线,人民北路,Renmin North Road
-6510,0642,地铁,6号线,梁家巷,Liangjiaxiang
-6510,0643,地铁,6号线,前锋路,Qianfeng Road
-6510,0644,地铁,6号线,建设北路,Jianshe North Road
-6510,0645,地铁,6号线,新鸿路,Xinhong Road
-6510,0646,地铁,6号线,玉双路,Yushuang Road
-6510,0647,地铁,6号线,牛王庙,Niuwangmiao
-6510,0648,地铁,6号线,顺江路,Shunjiang Road
-6510,0649,地铁,6号线,三官堂,Sanguantang
-6510,0650,地铁,6号线,东光,Dongguang
-6510,0651,地铁,6号线,琉璃场,Liulichang
-6510,0652,地铁,6号线,琉三路,Liusan Road
-6510,0653,地铁,6号线,金石路,Jinshi Road
-6510,0654,地铁,6号线,金融城东,Financial City East
-6510,0655,地铁,6号线,中和,Zhonghe
-6510,0656,地铁,6号线,张家寺,Zhangjiasi
-6510,0657,地铁,6号线,陆肖,Luxiao
-6510,0658,地铁,6号线,观东,Guandong
-6510,0659,地铁,6号线,新通大道,Xintong Avenue
-6510,0660,地铁,6号线,新川路,Xinchuan Road
-6510,0661,地铁,6号线,龙灯山,Longdengshan
-6510,0662,地铁,6号线,蒲草塘,Pucaotang
-6510,0663,地铁,6号线,万安,Wan'an
-6510,0664,地铁,6号线,麓山大道,Lushan Avenue
-6510,0665,地铁,6号线,沈阳路,Shenyang Road
-6510,0666,地铁,6号线,青岛路,Qingdao Road
-6510,0667,地铁,6号线,昌公堰,Changgongyan
-6510,0668,地铁,6号线,杭州路,Hangzhou Road
-6510,0669,地铁,6号线,天府商务区,Tianfu Commercial District
-6510,0670,地铁,6号线,西博城,Western China Int'l Expo City
-6510,0671,地铁,6号线,秦皇寺,Qinhuangsi
-6510,0672,地铁,6号线,松林,Songlin
-6510,0673,地铁,6号线,芦角,Lujiao
-6510,0674,地铁,6号线,钓鱼嘴,Diaoyuzui
-6510,0675,地铁,6号线,回龙,Huilong
-6510,0676,地铁,6号线,兰家沟,Lanjiagou
-6510,07,地铁,7号线,,
-6510,0721,地铁,7号线,火车北站,North Railway Station
-6510,0722,地铁,7号线,驷马桥,Sima Bridge
-6510,0723,地铁,7号线,府青路,Fuqing Road
-6510,0724,地铁,7号线,八里庄,Balizhuang
-6510,0725,地铁,7号线,二仙桥,Erxianqiao
-6510,0726,地铁,7号线,理工大学,Chengdu University of Technology
-6510,0727,地铁,7号线,崔家店,Cuijiadian
-6510,0728,地铁,7号线,双店路,Shuangdian Road
-6510,0729,地铁,7号线,槐树店,Huaishudian
-6510,0730,地铁,7号线,迎晖路,Yinghui Road
-6510,0731,地铁,7号线,成都东客站,Chengdu East Railway Station
-6510,0732,地铁,7号线,大观,Daguan
-6510,0733,地铁,7号线,狮子山,Shizishan
-6510,0734,地铁,7号线,四川师大,Sichuan Normal University
-6510,0735,地铁,7号线,琉璃场,Liulichang
-6510,0736,地铁,7号线,三瓦窑,Sanwayao
-6510,0737,地铁,7号线,火车南站,South Railway Station
-6510,0738,地铁,7号线,神仙树,Shenxianshu
-6510,0739,地铁,7号线,高朋大道,Gaopeng Avenue
-6510,0740,地铁,7号线,太平园,Taipingyuan
-6510,0741,地铁,7号线,武侯大道,Wuhou Avenue
-6510,0742,地铁,7号线,龙爪堰,Longzhuayan
-6510,0743,地铁,7号线,东坡路,Dongpo Road
-6510,0744,地铁,7号线,文化宫,Culture Palace
-6510,0745,地铁,7号线,金沙博物馆,Jinsha Site Museum
-6510,0746,地铁,7号线,一品天下,Yipintianxia
-6510,0747,地铁,7号线,茶店子,Chadianzi
-6510,0748,地铁,7号线,花照壁,Huazhaobi
-6510,0749,地铁,7号线,西南交大,Southwest Jiaotong University
-6510,0750,地铁,7号线,九里堤,Jiulidi
-6510,0751,地铁,7号线,北站西二路,2nd Beizhan West Road
-6510,08,地铁,8号线,,
-6510,0815,地铁,8号线,桂龙路,Guilong Road
-6510,0816,地铁,8号线,桂林,Guilin
-6510,0817,地铁,8号线,同乐,Tongle
-6510,0818,地铁,8号线,龙潭寺,Longtan Temple
-6510,0819,地铁,8号线,龙潭立交,Longtan Flyover
-6510,0820,地铁,8号线,圣灯公园,Shengdeng Park
-6510,0821,地铁,8号线,十里店,Shilidian
-6510,0822,地铁,8号线,理工大学,Chengdu University of Technology
-6510,0823,地铁,8号线,东郊记忆,Dongjiao Memory
-6510,0824,地铁,8号线,杉板桥,Shabanqiao
-6510,0825,地铁,8号线,万年路,Wannian Road
-6510,0826,地铁,8号线,双桥路,Shuangqiao Road
-6510,0827,地铁,8号线,东大路,Dongdalu Road
-6510,0828,地铁,8号线,净居寺,Jingjusi
-6510,0829,地铁,8号线,东光,Dongguang
-6510,0830,地铁,8号线,东湖公园,Donghu Park
-6510,0831,地铁,8号线,川大望江校区,Sichuan University Wangjiang Campus
-6510,0832,地铁,8号线,倪家桥,Nijiaqiao
-6510,0833,地铁,8号线,芳草街,Fangcao Street
-6510,0834,地铁,8号线,永丰,Yongfeng
-6510,0835,地铁,8号线,九兴大道,Jiuxing Avenue
-6510,0836,地铁,8号线,高朋大道,Gaopeng Avenue
-6510,0837,地铁,8号线,殷家林,Yinjialin
-6510,0838,地铁,8号线,庆安,Qing'an
-6510,0839,地铁,8号线,石羊,Shiyang
-6510,0840,地铁,8号线,三元,Sanyuan
-6510,0841,地铁,8号线,顺风,Shunfeng
-6510,0842,地铁,8号线,珠江路,Zhujiang Road
-6510,0843,地铁,8号线,川大江安校区,Sichuan University Jiang'an Campus
-6510,0844,地铁,8号线,文星,Wenxing
-6510,0845,地铁,8号线,莲花,Lianhua
-6510,0846,地铁,8号线,龙港,Longgang
-6510,09,地铁,9号线,,
-6510,0921,地铁,9号线,黄田坝,Huangtianba
-6510,0922,地铁,9号线,成都西站,Chengdu West Railway Station
-6510,0923,地铁,9号线,培风,Peifeng
-6510,0924,地铁,9号线,机投桥,Jitouqiao
-6510,0925,地铁,9号线,武青南路,Wuqing South Road
-6510,0926,地铁,9号线,簇桥,Cuqiao
-6510,0927,地铁,9号线,华兴,Huaxing
-6510,0928,地铁,9号线,太平寺,Taiping Temple
-6510,0929,地铁,9号线,三元,Sanyuan
-6510,0930,地铁,9号线,锦城大道,Jincheng Avenue
-6510,0931,地铁,9号线,孵化园,Incubation Park
-6510,0932,地铁,9号线,心岛,Xindao
-6510,0933,地铁,9号线,金融城东,Financial City East
-6510,10,地铁,10号线,,
-6510,1021,地铁,10号线,太平园,Taipingyuan
-6510,1022,地铁,10号线,簇锦,Cujin
-6510,1023,地铁,10号线,华兴,Huaxing
-6510,1024,地铁,10号线,金花,Jinhua
-6510,1025,地铁,10号线,双流机场1航站楼,Terminal 1 of Shuangliu International Airport
-6510,1026,地铁,10号线,双流机场2航站楼,Terminal 2 of Shuangliu International Airport
-6510,1027,地铁,10号线,双流西站,Shuangliu West Railway Station
-6510,1028,地铁,10号线,应天寺,Yingtian Temple
-6510,1029,地铁,10号线,黄水,Huangshui
-6510,1030,地铁,10号线,花源,Huayuan
-6510,1031,地铁,10号线,新津站,Xinjin Railway Station
-6510,1032,地铁,10号线,花桥,Huaqiao
-6510,1033,地铁,10号线,五津,Wujin
-6510,1034,地铁,10号线,儒林路,Rulin Road
-6510,1035,地铁,10号线,刘家碾,Liujianian
-6510,1036,地铁,10号线,新平,Xinping
-6510,13,地铁,13号线,,
-6510,1321,地铁,13号线,龙安,Long'an
-6510,1322,地铁,13号线,龙华寺,Longhuasi
-6510,1323,地铁,13号线,三圣花乡,Sansheng Flower Town
-6510,1324,地铁,13号线,幸福梅林,Xingfu Meilin
-6510,1325,地铁,13号线,娇子立交,Jiaozi Flyover
-6510,1326,地铁,13号线,四川师大,Sichuan Normal University
-6510,1327,地铁,13号线,净居寺,Jingjusi
-6510,1328,地铁,13号线,三官堂,Sanguantang
-6510,1329,地铁,13号线,九眼桥,Jiuyan Bridge
-6510,1330,地铁,13号线,新南门,Xinnanmen
-6510,1331,地铁,13号线,华西坝,Huaxiba
-6510,1332,地铁,13号线,文翁石室,Wenweng Shishi
-6510,1333,地铁,13号线,小南街,Xiaonan Street
-6510,1334,地铁,13号线,青羊宫,Qingyang Taoist Temple
-6510,1335,地铁,13号线,杜甫草堂,Du Fu Thatched Cottage
-6510,1336,地铁,13号线,光华村,Guanghuacun
-6510,1337,地铁,13号线,东坡路,Dongpo Road
-6510,1338,地铁,13号线,万寿桥,Wanshou Bridge
-6510,1339,地铁,13号线,培风,Peifeng
-6510,1340,地铁,13号线,万家湾,Wanjiawan
-6510,1341,地铁,13号线,瓦窑滩,Wayaotan
-6510,17,地铁,17号线,,
-6510,1721,地铁,17号线,金星,Jinxing
-6510,1722,地铁,17号线,黄石,Huangshi
-6510,1723,地铁,17号线,市五医院,Chengdu Fifth People's Hospital
-6510,1724,地铁,17号线,凤溪河,Fengxihe
-6510,1725,地铁,17号线,温泉大道,Wenquan Avenue
-6510,1726,地铁,17号线,明光,Mingguang
-6510,1727,地铁,17号线,九江北,Jiujiang North
-6510,1728,地铁,17号线,白佛桥,Baifoqiao
-6510,1729,地铁,17号线,机投桥,Jitouqiao
-6510,18,地铁,18号线,,
-6510,1821,地铁,18号线,火车南站,South Railway Station
-6510,1822,地铁,18号线,孵化园,Incubation Park
-6510,1823,地铁,18号线,锦城广场东,Jincheng Plaza East
-6510,1824,地铁,18号线,世纪城,Century City
-6510,1825,地铁,18号线,海昌路,Haichang Road
-6510,1826,地铁,18号线,西博城,Western China Int'l Expo City
-6510,1827,地铁,18号线,兴隆,Xinglong
-6510,1828,地铁,18号线,天府站,Tianfu Station
-6510,1829,地铁,18号线,三岔,Sancha
-6510,1830,地铁,18号线,福田,Futian
-6510,1831,地铁,18号线,天府机场3号4号航站楼,Terminal 3&4 of Tianfu International Airport
-6510,1832,地铁,18号线,天府机场1号2号航站楼,Terminal 1&2 of Tianfu International Airport
-6510,1833,地铁,18号线,天府机场北,Tianfu International Airport North
-6510,19,地铁,19号线,,
-6510,1921,地铁,19号线,金星,Jinxing
-6510,1922,地铁,19号线,黄石,Huangshi
-6510,1923,地铁,19号线,市五医院,Chengdu Fifth People's Hospital
-6510,1924,地铁,19号线,凤溪河,Fengxihe
-6510,1925,地铁,19号线,温泉大道,Wenquan Avenue
-6510,1926,地铁,19号线,明光,Mingguang
-6510,1927,地铁,19号线,九江北,Jiujiang North
-6510,1928,地铁,19号线,龙桥路,Longqiao Road
-6510,1929,地铁,19号线,双流机场2航站楼东,East of Terminal 2 of Shuangliu International Airport
-6510,1930,地铁,19号线,龙港,Longgang
-6510,1931,地铁,19号线,温家山,Wenjiashan
-6510,1932,地铁,19号线,牧华路,Muhua Road
-6510,1933,地铁,19号线,怡心湖,Yixin Lake
-6510,1934,地铁,19号线,正兴湾,Zhengxingwan
-6510,1935,地铁,19号线,红莲,Honglian
-6510,1936,地铁,19号线,天府商务区,Tianfu Commercial District
-6510,1937,地铁,19号线,蓝家店,Lanjiadian
-6510,1938,地铁,19号线,天府站,Tianfu Station
-6510,1939,地铁,19号线,三岔,Sancha
-6510,1940,地铁,19号线,福田,Futian
-6510,1941,地铁,19号线,天府机场3号4号航站楼,Terminal 3&4 of Tianfu International Airport
-6510,1942,地铁,19号线,天府机场1号2号航站楼,Terminal 1&2 of Tianfu International Airport
-6510,1943,地铁,19号线,天府机场北,Tianfu International Airport North
-6510,27,地铁,27号线,,
-6510,2721,地铁,27号线,石佛,Shifo
-6510,2722,地铁,27号线,慈义,Ciyi
-6510,2723,地铁,27号线,兴城大道,Xingcheng Avenue
-6510,2724,地铁,27号线,旃檀寺,Zhantan Temple
-6510,2725,地铁,27号线,石门坎,Shimenkan
-6510,2726,地铁,27号线,三圣寺,Sanshengsi
-6510,2727,地铁,27号线,范家巷,Fanjia Alley
-6510,2728,地铁,27号线,鲤鱼湾,Liyuwan
-6510,2729,地铁,27号线,白仁店,Bairendian
-6510,2730,地铁,27号线,赖家店,Laijiadian
-6510,2731,地铁,27号线,韦家碾,Weijianian
-6510,2732,地铁,27号线,双水碾,Shuangshuinian
-6510,2733,地铁,27号线,王贾桥,Wangjiaqiao
-6510,2734,地铁,27号线,洞子口,Dongzikou
-6510,2735,地铁,27号线,沙河源,Shaheyuan
-6510,2736,地铁,27号线,新桥,Xinqiao
-6510,2737,地铁,27号线,金府,Jinfu
-6510,2738,地铁,27号线,花照壁北,Huazhaobi North
-6510,2739,地铁,27号线,金牛公园,Jinniu Park
-6510,2740,地铁,27号线,羊犀立交,Yangxi Flyover
-6510,2741,地铁,27号线,黄忠,Huangzhong
-6510,2742,地铁,27号线,金沙滨河公园,Jinsha Binhe Park
-6510,2743,地铁,27号线,蜀鑫路,Shuxin Road
-6510,30,地铁,30号线,,
-6510,3021,地铁,30号线,龙泉驿火车站南,Longquanyi Railway Station South
-6510,3022,地铁,30号线,玉虹路,Yuhong Road
-6510,3023,地铁,30号线,分水,Fenshui
-6510,3024,地铁,30号线,玉石,Yushi
-6510,3025,地铁,30号线,惠王陵,Huiwangling
-6510,3026,地铁,30号线,航天立交,Hangtian Flyover
-6510,3027,地铁,30号线,海桐街,Haitong Street
-6510,3028,地铁,30号线,娇子立交,Jiaozi Flyover
-6510,3029,地铁,30号线,锦逸,Jinyi
-6510,3030,地铁,30号线,棬子树,Juanzishu
-6510,3031,地铁,30号线,金石路,Jinshi Road
-6510,3032,地铁,30号线,府城桥,Fucheng Bridge
-6510,3033,地铁,30号线,金融城北,Financial City North
-6510,3034,地铁,30号线,益州大道,Yizhou Avenue
-6510,3035,地铁,30号线,市一医院,Chengdu First People's Hospital
-6510,3036,地铁,30号线,新园大道,Xinyuan Avenue
-6510,3037,地铁,30号线,石羊东,Shiyangdong
-6510,3038,地铁,30号线,大同,Datong
-6510,3039,地铁,30号线,珠江路,Zhujiang Road
-6510,3040,地铁,30号线,谢家渡,Xiejiadu
-6510,3041,地铁,30号线,光明,Guangming
-6510,3042,地铁,30号线,星月,Xingyue
-6510,3043,地铁,30号线,寺圣,Sisheng
-6510,3044,地铁,30号线,双流机场2航站楼东,East of Terminal 2 of Shuangliu International Airport
-6510,73,地铁,S3线,,
-6510,7321,地铁,S3线,福田,Futian
-6510,7322,地铁,S3线,卢葭,
-6510,7323,地铁,S3线,资阳临空,Ziyang Airport Economic Zone
-6510,7324,地铁,S3线,幸福大道,Xingfu Avenue
-6510,7325,地铁,S3线,苌弘广场,Changhong Square
-6510,7326,地铁,S3线,宝台,Baotai
-6510,7327,地铁,S3线,资阳北站,Ziyang Bei Station
+6510,0101,地铁,1号线,,
+6510,010120,地铁,1号线,韦家碾,Weijianian
+6510,010121,地铁,1号线,升仙湖,Shengxian Lake
+6510,010122,地铁,1号线,火车北站,North Railway Station
+6510,010123,地铁,1号线,人民北路,Renmin North Road
+6510,010124,地铁,1号线,文殊院,Wenshu Monastery
+6510,010125,地铁,1号线,骡马市,Luomashi
+6510,010126,地铁,1号线,天府广场,Tianfu Square
+6510,010127,地铁,1号线,锦江宾馆,Jinjiang Hotel
+6510,010128,地铁,1号线,华西坝,Huaxiba
+6510,010129,地铁,1号线,省体育馆,Sichuan Gymnasium
+6510,010130,地铁,1号线,倪家桥,Nijiaqiao
+6510,010131,地铁,1号线,桐梓林,Tongzilin
+6510,010132,地铁,1号线,火车南站,South Railway Station
+6510,010133,地铁,1号线,高新,Hi-Tech Zone
+6510,010134,地铁,1号线,金融城,Financial City
+6510,010135,地铁,1号线,孵化园,Incubation Park
+6510,010136,地铁,1号线,锦城广场,Jincheng Plaza
+6510,010137,地铁,1号线,世纪城,Century City
+6510,010138,地铁,1号线,天府三街,3rd Tianfu Street
+6510,010139,地铁,1号线,天府五街,5th Tianfu Street
+6510,010140,地铁,1号线,华府大道,Huafu Avenue
+6510,010141,地铁,1号线,四河,Sihe
+6510,010142,地铁,1号线,广都,Guangdu
+6510,010143,地铁,1号线,五根松,Wugensong
+6510,010144,地铁,1号线,华阳,Huayang
+6510,010145,地铁,1号线,海昌路,Haichang Road
+6510,010146,地铁,1号线,广福,Guangfu
+6510,010147,地铁,1号线,红石公园,Hongshi Park
+6510,010148,地铁,1号线,麓湖,Luhu Lake
+6510,010149,地铁,1号线,武汉路,Wuhan Road
+6510,010150,地铁,1号线,天府公园,Tianfu Park
+6510,010151,地铁,1号线,西博城,Western China Int'l Expo City
+6510,010152,地铁,1号线,广州路,Guangzhou Road
+6510,010153,地铁,1号线,兴隆湖,Xinglong Lake
+6510,010154,地铁,1号线,科学城,Science City
+6510,0202,地铁,2号线,,
+6510,020221,地铁,2号线,犀浦,Xipu Railway Station
+6510,020222,地铁,2号线,天河路,Tianhe Road
+6510,020223,地铁,2号线,百草路,Baicao Road
+6510,020224,地铁,2号线,金周路,Jinzhou Road
+6510,020225,地铁,2号线,金科北路,Jinke North Road
+6510,020226,地铁,2号线,迎宾大道,Yingbin Avenue
+6510,020227,地铁,2号线,茶店子客运站,Chadianzi Bus Terminal Station
+6510,020228,地铁,2号线,羊犀立交,Yangxi Flyover
+6510,020229,地铁,2号线,一品天下,Yipintianxia
+6510,020230,地铁,2号线,蜀汉路东,Shuhan Road East
+6510,020231,地铁,2号线,白果林,Baiguolin
+6510,020232,地铁,2号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
+6510,020233,地铁,2号线,通惠门,Tonghuimen
+6510,020234,地铁,2号线,人民公园,People's Park
+6510,020235,地铁,2号线,天府广场,Tianfu Square
+6510,020236,地铁,2号线,春熙路,Chunxi Road
+6510,020237,地铁,2号线,东门大桥,Dongmen Bridge
+6510,020238,地铁,2号线,牛王庙,Niuwangmiao
+6510,020239,地铁,2号线,牛市口,Niushikou
+6510,020240,地铁,2号线,东大路,Dongdalu Road
+6510,020241,地铁,2号线,塔子山公园,Tazishan Park
+6510,020242,地铁,2号线,成都东客站,Chengdu East Railway Station
+6510,020243,地铁,2号线,成渝立交,Chengyu Flyover
+6510,020244,地铁,2号线,惠王陵,Huiwangling
+6510,020245,地铁,2号线,洪河,Honghe
+6510,020246,地铁,2号线,成都行政学院,Chengdu Academy of Governance
+6510,020247,地铁,2号线,大面铺,Damianpu
+6510,020248,地铁,2号线,连山坡,Lianshanpo
+6510,020249,地铁,2号线,界牌,Jiepai
+6510,020250,地铁,2号线,书房,Shufang
+6510,020251,地铁,2号线,龙平路,Longping Road
+6510,020252,地铁,2号线,龙泉驿,Longquanyi
+6510,0303,地铁,3号线,,
+6510,030312,地铁,3号线,成都医学院,Chengdu Medical College
+6510,030313,地铁,3号线,石油大学,Southwest Petroleum University
+6510,030314,地铁,3号线,钟楼,Clock Tower
+6510,030315,地铁,3号线,马超西路,Machao West Road
+6510,030316,地铁,3号线,团结新区,Tuanjiexinqu
+6510,030317,地铁,3号线,锦水河,Jinshuihe
+6510,030318,地铁,3号线,三河场,Sanhechang
+6510,030319,地铁,3号线,金华寺东路,Jinhuasi East Road
+6510,030320,地铁,3号线,植物园,Botanical Garden
+6510,030321,地铁,3号线,军区总医院,Chengdu Junqu General Hospital
+6510,030322,地铁,3号线,熊猫大道,Panda Avenue
+6510,030323,地铁,3号线,动物园,Chengdu Zoo
+6510,030324,地铁,3号线,昭觉寺南路,Zhaojuesi South Road
+6510,030325,地铁,3号线,驷马桥,Sima Bridge
+6510,030326,地铁,3号线,李家沱,Lijiatuo
+6510,030327,地铁,3号线,前锋路,Qianfeng Road
+6510,030328,地铁,3号线,红星桥,Hongxing Bridge
+6510,030329,地铁,3号线,市二医院,Chengdu Second People's Hospital
+6510,030330,地铁,3号线,春熙路,Chunxi Road
+6510,030331,地铁,3号线,新南门,Xinnanmen
+6510,030332,地铁,3号线,磨子桥,Moziqiao
+6510,030333,地铁,3号线,省体育馆,Sichuan Gymnasium
+6510,030334,地铁,3号线,衣冠庙,Yiguanmiao
+6510,030335,地铁,3号线,高升桥,Gaoshengqiao
+6510,030336,地铁,3号线,红牌楼,Hongpailou
+6510,030337,地铁,3号线,太平园,Taipingyuan
+6510,030338,地铁,3号线,川藏立交,Chuanzang Flyover
+6510,030339,地铁,3号线,武侯立交,Wuhou Flyover
+6510,030340,地铁,3号线,武青南路,Wuqing South Road
+6510,030341,地铁,3号线,双凤桥,Shuangfengqiao
+6510,030342,地铁,3号线,龙桥路,Longqiao Road
+6510,030343,地铁,3号线,航都大街,Hangdu Street
+6510,030344,地铁,3号线,迎春桥,Yingchunqiao
+6510,030345,地铁,3号线,东升,Dongsheng
+6510,030346,地铁,3号线,双流广场,Shuangliu Square
+6510,030347,地铁,3号线,三里坝,Sanliba
+6510,030348,地铁,3号线,双流西站,Shuangliu West Railway Station
+6510,0404,地铁,4号线,,
+6510,040413,地铁,4号线,万盛,Wansheng
+6510,040414,地铁,4号线,杨柳河,Yangliuhe
+6510,040415,地铁,4号线,凤溪河,Fengxihe
+6510,040416,地铁,4号线,南熏大道,Nanxun Avenue
+6510,040417,地铁,4号线,光华公园,Guanghua Park
+6510,040418,地铁,4号线,涌泉,Yongquan
+6510,040419,地铁,4号线,凤凰大街,Fenghuang Street
+6510,040420,地铁,4号线,马厂坝,Machangba
+6510,040421,地铁,4号线,非遗博览园,Intangible Cultural Heritage Park
+6510,040422,地铁,4号线,蔡桥,Caiqiao
+6510,040423,地铁,4号线,中坝,Zhongba
+6510,040424,地铁,4号线,成都西站,Chengdu West Railway Station
+6510,040425,地铁,4号线,清江西路,Qingjiang West Road
+6510,040426,地铁,4号线,文化宫,Culture Palace
+6510,040427,地铁,4号线,西南财大,Southwestern University of Finance and Economics
+6510,040428,地铁,4号线,草堂北路,Caotang North Road
+6510,040429,地铁,4号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
+6510,040430,地铁,4号线,宽窄巷子,Kuanzhaixiangzi Alleys
+6510,040431,地铁,4号线,骡马市,Luomashi
+6510,040432,地铁,4号线,太升南路,Taisheng South Road
+6510,040433,地铁,4号线,市二医院,Chengdu Second People's Hospital
+6510,040434,地铁,4号线,玉双路,Yushuang Road
+6510,040435,地铁,4号线,双桥路,Shuangqiao Road
+6510,040436,地铁,4号线,万年场,Wannianchang
+6510,040437,地铁,4号线,槐树店,Huaishudian
+6510,040438,地铁,4号线,来龙,Lailong
+6510,040439,地铁,4号线,十陵,Shiling
+6510,040440,地铁,4号线,成都大学,Chengdu University
+6510,040441,地铁,4号线,明蜀王陵,Mingshuwangling
+6510,040442,地铁,4号线,西河,Xihe
+6510,0505,地铁,5号线,,
+6510,050521,地铁,5号线,华桂路,Huagui Road
+6510,050522,地铁,5号线,柏水场,Baishuichang
+6510,050523,地铁,5号线,廖家湾,Liaojiawan
+6510,050524,地铁,5号线,北部商贸城,Beibu Shopping Mall
+6510,050525,地铁,5号线,幸福桥,Xingfuqiao
+6510,050526,地铁,5号线,九道堰,Jiudaoyan
+6510,050527,地铁,5号线,杜家碾,Dujianian
+6510,050528,地铁,5号线,大丰,Dafeng
+6510,050529,地铁,5号线,石犀公园,Shixi Park
+6510,050530,地铁,5号线,皇花园,Huanghuayuan
+6510,050531,地铁,5号线,陆家桥,Lujiaqiao
+6510,050532,地铁,5号线,泉水路,Quanshui Road
+6510,050533,地铁,5号线,洞子口,Dongzikou
+6510,050534,地铁,5号线,福宁路,Funing Road
+6510,050535,地铁,5号线,五块石,Wukuaishi
+6510,050536,地铁,5号线,赛云台,Saiyuntai
+6510,050537,地铁,5号线,北站西二路,2nd Beizhan West Road
+6510,050538,地铁,5号线,西北桥,Xibei Bridge
+6510,050539,地铁,5号线,花牌坊,Huapaifang
+6510,050540,地铁,5号线,抚琴,Fuqin
+6510,050541,地铁,5号线,中医大·省医院,Chengdu University of TCM & Sichuan Provincial People's Hospital
+6510,050542,地铁,5号线,青羊宫,Qingyang Taoist Temple
+6510,050543,地铁,5号线,省骨科医院,Provincial Orthopaedics Hospital
+6510,050544,地铁,5号线,高升桥,Gaoshengqiao
+6510,050545,地铁,5号线,科园,Keyuan
+6510,050546,地铁,5号线,九兴大道,Jiuxing Avenue
+6510,050547,地铁,5号线,神仙树,Shenxianshu
+6510,050548,地铁,5号线,石羊立交,Shiyang Flyover
+6510,050549,地铁,5号线,市一医院,Chengdu First People's Hospital
+6510,050550,地铁,5号线,交子大道,Jiaozi Avenue
+6510,050551,地铁,5号线,锦城大道,Jincheng Avenue
+6510,050552,地铁,5号线,锦城湖,Jincheng Lake
+6510,050553,地铁,5号线,大源,Dayuan
+6510,050554,地铁,5号线,民乐,Minle
+6510,050555,地铁,5号线,骑龙,Qilong
+6510,050556,地铁,5号线,警官学院,The Police College
+6510,050557,地铁,5号线,二江寺,Erjiang Temple
+6510,050558,地铁,5号线,南湖立交,Nanhu Flyover
+6510,050559,地铁,5号线,怡心湖,Yixin Lake
+6510,050560,地铁,5号线,龙马路,Longma Road
+6510,050561,地铁,5号线,回龙,Huilong
+6510,0606,地铁,6号线,,
+6510,060621,地铁,6号线,望丛祠,Wangcong Temple
+6510,060622,地铁,6号线,和平街,Heping Street
+6510,060623,地铁,6号线,郫筒,Pitong
+6510,060624,地铁,6号线,蜀新大道,Shuxin Avenue
+6510,060625,地铁,6号线,檬梓,Mengzi
+6510,060626,地铁,6号线,尚锦路,Shangjin Road
+6510,060627,地铁,6号线,红高路,Honggao Road
+6510,060628,地铁,6号线,天宇路,Tianyu Road
+6510,060629,地铁,6号线,犀浦,Xipu Railway Station
+6510,060630,地铁,6号线,兴业北街,Xingye North Street
+6510,060631,地铁,6号线,梓潼宫,Zitonggong
+6510,060632,地铁,6号线,侯家桥,Houjiaqiao
+6510,060633,地铁,6号线,兴盛,Xingsheng
+6510,060634,地铁,6号线,青杠,Qinggang
+6510,060635,地铁,6号线,西华大道,Xihua Avenue
+6510,060636,地铁,6号线,金府,Jinfu
+6510,060637,地铁,6号线,星河,Xinghe
+6510,060638,地铁,6号线,西南交大,Southwest Jiaotong University
+6510,060639,地铁,6号线,沙湾,Shawan
+6510,060640,地铁,6号线,西北桥,Xibei Bridge
+6510,060641,地铁,6号线,人民北路,Renmin North Road
+6510,060642,地铁,6号线,梁家巷,Liangjiaxiang
+6510,060643,地铁,6号线,前锋路,Qianfeng Road
+6510,060644,地铁,6号线,建设北路,Jianshe North Road
+6510,060645,地铁,6号线,新鸿路,Xinhong Road
+6510,060646,地铁,6号线,玉双路,Yushuang Road
+6510,060647,地铁,6号线,牛王庙,Niuwangmiao
+6510,060648,地铁,6号线,顺江路,Shunjiang Road
+6510,060649,地铁,6号线,三官堂,Sanguantang
+6510,060650,地铁,6号线,东光,Dongguang
+6510,060651,地铁,6号线,琉璃场,Liulichang
+6510,060652,地铁,6号线,琉三路,Liusan Road
+6510,060653,地铁,6号线,金石路,Jinshi Road
+6510,060654,地铁,6号线,金融城东,Financial City East
+6510,060655,地铁,6号线,中和,Zhonghe
+6510,060656,地铁,6号线,张家寺,Zhangjiasi
+6510,060657,地铁,6号线,陆肖,Luxiao
+6510,060658,地铁,6号线,观东,Guandong
+6510,060659,地铁,6号线,新通大道,Xintong Avenue
+6510,060660,地铁,6号线,新川路,Xinchuan Road
+6510,060661,地铁,6号线,龙灯山,Longdengshan
+6510,060662,地铁,6号线,蒲草塘,Pucaotang
+6510,060663,地铁,6号线,万安,Wan'an
+6510,060664,地铁,6号线,麓山大道,Lushan Avenue
+6510,060665,地铁,6号线,沈阳路,Shenyang Road
+6510,060666,地铁,6号线,青岛路,Qingdao Road
+6510,060667,地铁,6号线,昌公堰,Changgongyan
+6510,060668,地铁,6号线,杭州路,Hangzhou Road
+6510,060669,地铁,6号线,天府商务区,Tianfu Commercial District
+6510,060670,地铁,6号线,西博城,Western China Int'l Expo City
+6510,060671,地铁,6号线,秦皇寺,Qinhuangsi
+6510,060672,地铁,6号线,松林,Songlin
+6510,060673,地铁,6号线,芦角,Lujiao
+6510,060674,地铁,6号线,钓鱼嘴,Diaoyuzui
+6510,060675,地铁,6号线,回龙,Huilong
+6510,060676,地铁,6号线,兰家沟,Lanjiagou
+6510,0707,地铁,7号线,,
+6510,070721,地铁,7号线,火车北站,North Railway Station
+6510,070722,地铁,7号线,驷马桥,Sima Bridge
+6510,070723,地铁,7号线,府青路,Fuqing Road
+6510,070724,地铁,7号线,八里庄,Balizhuang
+6510,070725,地铁,7号线,二仙桥,Erxianqiao
+6510,070726,地铁,7号线,理工大学,Chengdu University of Technology
+6510,070727,地铁,7号线,崔家店,Cuijiadian
+6510,070728,地铁,7号线,双店路,Shuangdian Road
+6510,070729,地铁,7号线,槐树店,Huaishudian
+6510,070730,地铁,7号线,迎晖路,Yinghui Road
+6510,070731,地铁,7号线,成都东客站,Chengdu East Railway Station
+6510,070732,地铁,7号线,大观,Daguan
+6510,070733,地铁,7号线,狮子山,Shizishan
+6510,070734,地铁,7号线,四川师大,Sichuan Normal University
+6510,070735,地铁,7号线,琉璃场,Liulichang
+6510,070736,地铁,7号线,三瓦窑,Sanwayao
+6510,070737,地铁,7号线,火车南站,South Railway Station
+6510,070738,地铁,7号线,神仙树,Shenxianshu
+6510,070739,地铁,7号线,高朋大道,Gaopeng Avenue
+6510,070740,地铁,7号线,太平园,Taipingyuan
+6510,070741,地铁,7号线,武侯大道,Wuhou Avenue
+6510,070742,地铁,7号线,龙爪堰,Longzhuayan
+6510,070743,地铁,7号线,东坡路,Dongpo Road
+6510,070744,地铁,7号线,文化宫,Culture Palace
+6510,070745,地铁,7号线,金沙博物馆,Jinsha Site Museum
+6510,070746,地铁,7号线,一品天下,Yipintianxia
+6510,070747,地铁,7号线,茶店子,Chadianzi
+6510,070748,地铁,7号线,花照壁,Huazhaobi
+6510,070749,地铁,7号线,西南交大,Southwest Jiaotong University
+6510,070750,地铁,7号线,九里堤,Jiulidi
+6510,070751,地铁,7号线,北站西二路,2nd Beizhan West Road
+6510,0808,地铁,8号线,,
+6510,080815,地铁,8号线,桂龙路,Guilong Road
+6510,080816,地铁,8号线,桂林,Guilin
+6510,080817,地铁,8号线,同乐,Tongle
+6510,080818,地铁,8号线,龙潭寺,Longtan Temple
+6510,080819,地铁,8号线,龙潭立交,Longtan Flyover
+6510,080820,地铁,8号线,圣灯公园,Shengdeng Park
+6510,080821,地铁,8号线,十里店,Shilidian
+6510,080822,地铁,8号线,理工大学,Chengdu University of Technology
+6510,080823,地铁,8号线,东郊记忆,Dongjiao Memory
+6510,080824,地铁,8号线,杉板桥,Shabanqiao
+6510,080825,地铁,8号线,万年路,Wannian Road
+6510,080826,地铁,8号线,双桥路,Shuangqiao Road
+6510,080827,地铁,8号线,东大路,Dongdalu Road
+6510,080828,地铁,8号线,净居寺,Jingjusi
+6510,080829,地铁,8号线,东光,Dongguang
+6510,080830,地铁,8号线,东湖公园,Donghu Park
+6510,080831,地铁,8号线,川大望江校区,Sichuan University Wangjiang Campus
+6510,080832,地铁,8号线,倪家桥,Nijiaqiao
+6510,080833,地铁,8号线,芳草街,Fangcao Street
+6510,080834,地铁,8号线,永丰,Yongfeng
+6510,080835,地铁,8号线,九兴大道,Jiuxing Avenue
+6510,080836,地铁,8号线,高朋大道,Gaopeng Avenue
+6510,080837,地铁,8号线,殷家林,Yinjialin
+6510,080838,地铁,8号线,庆安,Qing'an
+6510,080839,地铁,8号线,石羊,Shiyang
+6510,080840,地铁,8号线,三元,Sanyuan
+6510,080841,地铁,8号线,顺风,Shunfeng
+6510,080842,地铁,8号线,珠江路,Zhujiang Road
+6510,080843,地铁,8号线,川大江安校区,Sichuan University Jiang'an Campus
+6510,080844,地铁,8号线,文星,Wenxing
+6510,080845,地铁,8号线,莲花,Lianhua
+6510,080846,地铁,8号线,龙港,Longgang
+6510,0909,地铁,9号线,,
+6510,090921,地铁,9号线,黄田坝,Huangtianba
+6510,090922,地铁,9号线,成都西站,Chengdu West Railway Station
+6510,090923,地铁,9号线,培风,Peifeng
+6510,090924,地铁,9号线,机投桥,Jitouqiao
+6510,090925,地铁,9号线,武青南路,Wuqing South Road
+6510,090926,地铁,9号线,簇桥,Cuqiao
+6510,090927,地铁,9号线,华兴,Huaxing
+6510,090928,地铁,9号线,太平寺,Taiping Temple
+6510,090929,地铁,9号线,三元,Sanyuan
+6510,090930,地铁,9号线,锦城大道,Jincheng Avenue
+6510,090931,地铁,9号线,孵化园,Incubation Park
+6510,090932,地铁,9号线,心岛,Xindao
+6510,090933,地铁,9号线,金融城东,Financial City East
+6510,1010,地铁,10号线,,
+6510,101021,地铁,10号线,太平园,Taipingyuan
+6510,101022,地铁,10号线,簇锦,Cujin
+6510,101023,地铁,10号线,华兴,Huaxing
+6510,101024,地铁,10号线,金花,Jinhua
+6510,101025,地铁,10号线,双流机场1航站楼,Terminal 1 of Shuangliu International Airport
+6510,101026,地铁,10号线,双流机场2航站楼,Terminal 2 of Shuangliu International Airport
+6510,101027,地铁,10号线,双流西站,Shuangliu West Railway Station
+6510,101028,地铁,10号线,应天寺,Yingtian Temple
+6510,101029,地铁,10号线,黄水,Huangshui
+6510,101030,地铁,10号线,花源,Huayuan
+6510,101031,地铁,10号线,新津站,Xinjin Railway Station
+6510,101032,地铁,10号线,花桥,Huaqiao
+6510,101033,地铁,10号线,五津,Wujin
+6510,101034,地铁,10号线,儒林路,Rulin Road
+6510,101035,地铁,10号线,刘家碾,Liujianian
+6510,101036,地铁,10号线,新平,Xinping
+6510,1313,地铁,13号线,,
+6510,131321,地铁,13号线,龙安,Long'an
+6510,131322,地铁,13号线,龙华寺,Longhuasi
+6510,131323,地铁,13号线,三圣花乡,Sansheng Flower Town
+6510,131324,地铁,13号线,幸福梅林,Xingfu Meilin
+6510,131325,地铁,13号线,娇子立交,Jiaozi Flyover
+6510,131326,地铁,13号线,四川师大,Sichuan Normal University
+6510,131327,地铁,13号线,净居寺,Jingjusi
+6510,131328,地铁,13号线,三官堂,Sanguantang
+6510,131329,地铁,13号线,九眼桥,Jiuyan Bridge
+6510,131330,地铁,13号线,新南门,Xinnanmen
+6510,131331,地铁,13号线,华西坝,Huaxiba
+6510,131332,地铁,13号线,文翁石室,Wenweng Shishi
+6510,131333,地铁,13号线,小南街,Xiaonan Street
+6510,131334,地铁,13号线,青羊宫,Qingyang Taoist Temple
+6510,131335,地铁,13号线,杜甫草堂,Du Fu Thatched Cottage
+6510,131336,地铁,13号线,光华村,Guanghuacun
+6510,131337,地铁,13号线,东坡路,Dongpo Road
+6510,131338,地铁,13号线,万寿桥,Wanshou Bridge
+6510,131339,地铁,13号线,培风,Peifeng
+6510,131340,地铁,13号线,万家湾,Wanjiawan
+6510,131341,地铁,13号线,瓦窑滩,Wayaotan
+6510,1717,地铁,17号线,,
+6510,171721,地铁,17号线,金星,Jinxing
+6510,171722,地铁,17号线,黄石,Huangshi
+6510,171723,地铁,17号线,市五医院,Chengdu Fifth People's Hospital
+6510,171724,地铁,17号线,凤溪河,Fengxihe
+6510,171725,地铁,17号线,温泉大道,Wenquan Avenue
+6510,171726,地铁,17号线,明光,Mingguang
+6510,171727,地铁,17号线,九江北,Jiujiang North
+6510,171728,地铁,17号线,白佛桥,Baifoqiao
+6510,171729,地铁,17号线,机投桥,Jitouqiao
+6510,1818,地铁,18号线,,
+6510,181821,地铁,18号线,火车南站,South Railway Station
+6510,181822,地铁,18号线,孵化园,Incubation Park
+6510,181823,地铁,18号线,锦城广场东,Jincheng Plaza East
+6510,181824,地铁,18号线,世纪城,Century City
+6510,181825,地铁,18号线,海昌路,Haichang Road
+6510,181826,地铁,18号线,西博城,Western China Int'l Expo City
+6510,181827,地铁,18号线,兴隆,Xinglong
+6510,181828,地铁,18号线,天府站,Tianfu Station
+6510,181829,地铁,18号线,三岔,Sancha
+6510,181830,地铁,18号线,福田,Futian
+6510,181831,地铁,18号线,天府机场3号4号航站楼,Terminal 3&4 of Tianfu International Airport
+6510,181832,地铁,18号线,天府机场1号2号航站楼,Terminal 1&2 of Tianfu International Airport
+6510,181833,地铁,18号线,天府机场北,Tianfu International Airport North
+6510,1919,地铁,19号线,,
+6510,191921,地铁,19号线,金星,Jinxing
+6510,191922,地铁,19号线,黄石,Huangshi
+6510,191923,地铁,19号线,市五医院,Chengdu Fifth People's Hospital
+6510,191924,地铁,19号线,凤溪河,Fengxihe
+6510,191925,地铁,19号线,温泉大道,Wenquan Avenue
+6510,191926,地铁,19号线,明光,Mingguang
+6510,191927,地铁,19号线,九江北,Jiujiang North
+6510,191928,地铁,19号线,龙桥路,Longqiao Road
+6510,191929,地铁,19号线,双流机场2航站楼东,East of Terminal 2 of Shuangliu International Airport
+6510,191930,地铁,19号线,龙港,Longgang
+6510,191931,地铁,19号线,温家山,Wenjiashan
+6510,191932,地铁,19号线,牧华路,Muhua Road
+6510,191933,地铁,19号线,怡心湖,Yixin Lake
+6510,191934,地铁,19号线,正兴湾,Zhengxingwan
+6510,191935,地铁,19号线,红莲,Honglian
+6510,191936,地铁,19号线,天府商务区,Tianfu Commercial District
+6510,191937,地铁,19号线,蓝家店,Lanjiadian
+6510,191938,地铁,19号线,天府站,Tianfu Station
+6510,191939,地铁,19号线,三岔,Sancha
+6510,191940,地铁,19号线,福田,Futian
+6510,191941,地铁,19号线,天府机场3号4号航站楼,Terminal 3&4 of Tianfu International Airport
+6510,191942,地铁,19号线,天府机场1号2号航站楼,Terminal 1&2 of Tianfu International Airport
+6510,191943,地铁,19号线,天府机场北,Tianfu International Airport North
+6510,2727,地铁,27号线,,
+6510,272721,地铁,27号线,石佛,Shifo
+6510,272722,地铁,27号线,慈义,Ciyi
+6510,272723,地铁,27号线,兴城大道,Xingcheng Avenue
+6510,272724,地铁,27号线,旃檀寺,Zhantan Temple
+6510,272725,地铁,27号线,石门坎,Shimenkan
+6510,272726,地铁,27号线,三圣寺,Sanshengsi
+6510,272727,地铁,27号线,范家巷,Fanjia Alley
+6510,272728,地铁,27号线,鲤鱼湾,Liyuwan
+6510,272729,地铁,27号线,白仁店,Bairendian
+6510,272730,地铁,27号线,赖家店,Laijiadian
+6510,272731,地铁,27号线,韦家碾,Weijianian
+6510,272732,地铁,27号线,双水碾,Shuangshuinian
+6510,272733,地铁,27号线,王贾桥,Wangjiaqiao
+6510,272734,地铁,27号线,洞子口,Dongzikou
+6510,272735,地铁,27号线,沙河源,Shaheyuan
+6510,272736,地铁,27号线,新桥,Xinqiao
+6510,272737,地铁,27号线,金府,Jinfu
+6510,272738,地铁,27号线,花照壁北,Huazhaobi North
+6510,272739,地铁,27号线,金牛公园,Jinniu Park
+6510,272740,地铁,27号线,羊犀立交,Yangxi Flyover
+6510,272741,地铁,27号线,黄忠,Huangzhong
+6510,272742,地铁,27号线,金沙滨河公园,Jinsha Binhe Park
+6510,272743,地铁,27号线,蜀鑫路,Shuxin Road
+6510,3030,地铁,30号线,,
+6510,303021,地铁,30号线,龙泉驿火车站南,Longquanyi Railway Station South
+6510,303022,地铁,30号线,玉虹路,Yuhong Road
+6510,303023,地铁,30号线,分水,Fenshui
+6510,303024,地铁,30号线,玉石,Yushi
+6510,303025,地铁,30号线,惠王陵,Huiwangling
+6510,303026,地铁,30号线,航天立交,Hangtian Flyover
+6510,303027,地铁,30号线,海桐街,Haitong Street
+6510,303028,地铁,30号线,娇子立交,Jiaozi Flyover
+6510,303029,地铁,30号线,锦逸,Jinyi
+6510,303030,地铁,30号线,棬子树,Juanzishu
+6510,303031,地铁,30号线,金石路,Jinshi Road
+6510,303032,地铁,30号线,府城桥,Fucheng Bridge
+6510,303033,地铁,30号线,金融城北,Financial City North
+6510,303034,地铁,30号线,益州大道,Yizhou Avenue
+6510,303035,地铁,30号线,市一医院,Chengdu First People's Hospital
+6510,303036,地铁,30号线,新园大道,Xinyuan Avenue
+6510,303037,地铁,30号线,石羊东,Shiyangdong
+6510,303038,地铁,30号线,大同,Datong
+6510,303039,地铁,30号线,珠江路,Zhujiang Road
+6510,303040,地铁,30号线,谢家渡,Xiejiadu
+6510,303041,地铁,30号线,光明,Guangming
+6510,303042,地铁,30号线,星月,Xingyue
+6510,303043,地铁,30号线,寺圣,Sisheng
+6510,303044,地铁,30号线,双流机场2航站楼东,East of Terminal 2 of Shuangliu International Airport
+6510,7373,地铁,S3线,,
+6510,737321,地铁,S3线,福田,Futian
+6510,737322,地铁,S3线,卢葭,
+6510,737323,地铁,S3线,资阳临空,Ziyang Airport Economic Zone
+6510,737324,地铁,S3线,幸福大道,Xingfu Avenue
+6510,737325,地铁,S3线,苌弘广场,Changhong Square
+6510,737326,地铁,S3线,宝台,Baotai
+6510,737327,地铁,S3线,资阳北站,Ziyang Bei Station
